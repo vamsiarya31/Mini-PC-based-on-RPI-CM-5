@@ -203,7 +203,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-Vamsi Kriushna — Vamsi.Krishna@iiitb.ac.in &nbsp;|&nbsp; [GitHub Profile](https://github.com/vamsiarya31)
+Vamsi Krishna — Vamsi.Krishna@iiitb.ac.in &nbsp;|&nbsp; [GitHub Profile](https://github.com/vamsiarya31)
 
 Project Link: [https://github.com/vamsiarya31/Mini-PC-based-on-RPI-CM-5](https://github.com/vamsiarya31/Mini-PC-based-on-RPI-CM-5)
 
