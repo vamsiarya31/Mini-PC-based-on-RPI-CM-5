@@ -141,36 +141,24 @@ The **Raspberry Pi CM5 (CM5108064)** is the central compute element, split acros
 
 ## Schematic
 
-![Root Schematic](https://github.com/kumarveluru/Mini-PC-based-on-RPI-CM-5/blob/main/Images/Root%20Schematic.png)
+![Root Schematic](https://github.com/vamsiarya31/Mini-PC-based-on-RPI-CM-5/blob/main/images/Root_Schematic.png.png)
 
 ---
 
 ## PCB Layout
 
-### Component Placement
-![Component Placement](https://github.com/kumarveluru/Mini-PC-based-on-RPI-CM-5/blob/main/Images/Placement.png)
-
 ### Overall PCB Layout
-![PCB Layout](https://github.com/kumarveluru/Mini-PC-based-on-RPI-CM-5/blob/main/Images/Layout.png)
+![PCB Layout](https://github.com/vamsiarya31/Mini-PC-based-on-RPI-CM-5/blob/main/images/PCB_Layout.png)
 
 ---
 
 ## 3D View
 
-### Top View
-![3D Top View](https://github.com/kumarveluru/Mini-PC-based-on-RPI-CM-5/blob/main/Images/3D%20Top%20View.png)
+### Top View 
+![3D  Top View](https://github.com/vamsiarya31/Mini-PC-based-on-RPI-CM-5/blob/main/images/3D_Model.png)
 
-### Bottom View
-![3D Bottom View](https://github.com/kumarveluru/Mini-PC-based-on-RPI-CM-5/blob/main/Images/3D%20Bottom%20View.png)
-
----
-
-## Board Dimensions
-
-| Parameter | Value |
-|-----------|-------|
-| Width     | TBD mm |
-| Height    | TBD mm |
+### Bottom View 
+![3D  Bottom View](https://github.com/vamsiarya31/Mini-PC-based-on-RPI-CM-5/blob/main/images/Bottom_Layer.png)
 
 ---
 
@@ -215,9 +203,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-V Kumar — V.Kumar@iiitb.ac.in &nbsp;|&nbsp; [GitHub Profile]()
+Vamsi Kriushna — Vamsi.Krishna@iiitb.ac.in &nbsp;|&nbsp; [GitHub Profile](https://github.com/vamsiarya31)
 
-Project Link: [https://github.com/kumarveluru/Mini-PC-based-on-RPI-CM-5](https://github.com/kumarveluru/Mini-PC-based-on-RPI-CM-5)
+Project Link: [https://github.com/vamsiarya31/Mini-PC-based-on-RPI-CM-5](https://github.com/vamsiarya31/Mini-PC-based-on-RPI-CM-5)
 
 ---
 
